@@ -1,0 +1,1 @@
+# Inheritance-for-Triangle-Class
